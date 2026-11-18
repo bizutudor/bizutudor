@@ -1,16 +1,17 @@
-## Hi there 👋
+# Tudor Bizu
 
-<!--
-**bizutudor/bizutudor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer · founder of **Tudor Digital Systems** · master's student at **Institut Polytechnique de Paris**
 
-Here are some ideas to get you started:
+I build web platforms, automations and data tools for small businesses and healthcare teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **AuditFix** – website & Google visibility audit platform, live in 3 languages: [audit.tudordigitalsystem.ro](https://audit.tudordigitalsystem.ro)
+  Python · FastAPI · Playwright · Docker · Stripe · Google APIs · PDF reports · automated tests
+- **[MRCond](https://github.com/bizutudor/mrcond)** – open benchmark for MR Conditional implant labeling (research prototype)
+- **[pred2sched](https://github.com/bizutudor/pred2sched)** – auditing surgical duration predictions with a SimPy procedure-suite simulation
+- **ClinicFlow** – Digital Twin for patient wayfinding (Engineering Proceedings, MDPI, 2026)
+
+## Work with me
+
+Websites, SEO & custom software: [tudordigitalsystem.ro](https://tudordigitalsystem.ro) (RO/EN) · [tudordigitalsystems.fr](https://tudordigitalsystems.fr) (FR)

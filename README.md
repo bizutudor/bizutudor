@@ -6,12 +6,14 @@ I build web platforms, automations and data tools for small businesses and healt
 
 ## Projects
 
-- **AuditFix** – website & Google visibility audit platform, live in 3 languages: [audit.tudordigitalsystem.ro](https://audit.tudordigitalsystem.ro)
+- **[AuditFix](https://github.com/bizutudor/auditfix)** – website & Google visibility audit platform, live in 3 languages: [audit.tudordigitalsystem.ro](https://audit.tudordigitalsystem.ro)  
   Python · FastAPI · Playwright · Docker · Stripe · Google APIs · PDF reports · automated tests
 - **[MRCond](https://github.com/bizutudor/mrcond)** – open benchmark for MR Conditional implant labeling (research prototype)
 - **[pred2sched](https://github.com/bizutudor/pred2sched)** – auditing surgical duration predictions with a SimPy procedure-suite simulation
-- **ClinicFlow** – Digital Twin for patient wayfinding (Engineering Proceedings, MDPI, 2026)
+- **ClinicFlow** – Digital Twin for patient wayfinding ([Engineering Proceedings, MDPI, 2026](https://doi.org/10.3390/engproc2026148037))
 
 ## Work with me
 
-Websites, SEO & custom software: [tudordigitalsystem.ro](https://tudordigitalsystem.ro) (RO/EN) · [tudordigitalsystems.fr](https://tudordigitalsystems.fr) (FR)
+Custom software and web applications: [tudordigitalsystem.ro/servicii/dezvoltare-software](https://tudordigitalsystem.ro/servicii/dezvoltare-software) (RO) · [English](https://tudordigitalsystem.ro/en/services/custom-software)
+
+Websites, SEO & audits: [tudordigitalsystem.ro](https://tudordigitalsystem.ro) (RO/EN) · [tudordigitalsystems.fr](https://tudordigitalsystems.fr) (FR)
